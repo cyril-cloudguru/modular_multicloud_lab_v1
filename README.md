@@ -27,4 +27,6 @@ Here are the current modules.
 5) azu_branch1_region1
    Creates a branch with VYOS router and connects to the Transit VNET 
 
-Work in progress.  Please use for testing only.  Not secure enough for production/
+Work in progress.  Please use for testing only.  Not secure enough for production
+
+I will be creating weekly content on cloud-guru.com for those not familiar with Terraform or the Public Cloud Providers.  We will also harden this configuration over time so that it may be used in production.  We will discuss clodu security, CASB, CWPP, CSPM, CNAPP and pen testing   
