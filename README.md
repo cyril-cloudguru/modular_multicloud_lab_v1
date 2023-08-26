@@ -1,6 +1,6 @@
 "# modular_multicloud_lab_v1"
 
-Hello, This is a modular terraform script that will allow you to create a multi-cloud and multi-region lab for testing. By removing the line comments on the individual, you can initiate and provision that module.
+Hello, This is a modular terraform script that will allow you to create a multi-cloud and multi-region lab for testing. By removing the line comments on the individual modules, you can initiate and provision that module.
 
 This version currently only supports Azure and AWS, but I will be adding GCP.  I also plan to add instructional videos for those not familiar with Terraform or the Public Cloud providers.
 
